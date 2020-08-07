@@ -49,7 +49,7 @@ class MainActivity : AppCompatActivity() {
         wind.text= "Wind :- "+it.wind.speed.toString()+" km/hr"
         pressure.text= "Pressure :- "+it.main.pressure.toString()
     }else{
-        Log.d("ONERRORR", "sdasd")
+        Toast.makeText(this,"Invalid API Key",Toast.LENGTH_SHORT).show()
 
       }
     }

@@ -24,7 +24,7 @@ class RemoteSourceImpl : RemoteSource {
 
   private fun restApi(): RestApi {
     return build(
-      "https://samples.openweathermap.org/x",
+      "https://samples.openweathermap.org/",
       getOkHttpClient(),
       createGsonConverterFactory()
     ).create(
