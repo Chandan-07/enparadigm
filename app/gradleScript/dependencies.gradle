@@ -1,0 +1,35 @@
+import dependencies.*
+
+apply from: Deps.common
+
+dependencies {
+
+  //App Module
+  implementation project(Deps.Module.domain)
+  implementation project(Deps.Module.cache)
+  implementation project(Deps.Module.data)
+
+  //Android X
+  implementation Deps.AndroidX.appcompat
+  implementation Deps.AndroidX.constraintlayout
+
+
+
+  //RxJava
+  implementation Deps.RxJava.rxAndroid
+  implementation Deps.RxJava.rxjava2
+  implementation Deps.RxJava.rxBinding
+
+
+  //Dagger2
+  implementation Deps.Dagger.dagger2
+  implementation Deps.Dagger.daggerAndroid
+  implementation Deps.Dagger.daggerAndroidSupport
+  kapt Deps.Dagger.processor
+  kapt Deps.Dagger.compiler
+  implementation Deps.lifeCycleExtension
+  implementation Deps.work
+
+
+
+}

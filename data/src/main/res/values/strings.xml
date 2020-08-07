@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">data</string>
+    <string-array name="images">
+        <item>http:\/\/www.3ue.xyz\/img_api\/pX9eRjli1ok.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/AQ5JHo6Srk0.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/m1Di9DXMNZ8.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/GyJVTwE0fRU.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/GsByDsWh8tU.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/ZDXkfEuu1kY.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/dxWNH-l_zvg.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/ixzeve9vZRQ.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/tlfpW0L0FYU.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/Z-niYJ8Ti1A.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/FoCNcBeLO04.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/cG1KA0lAHaQ.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/K3leJmPQnOo.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/EXsM5LuUIic.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/xk1Vf9vPT3E.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/6XNyAfdR4VE.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/SdG5KmRFZNI.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/x8aUPCmT0Zg.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/yZDcQgD00fI.jpg</item>
+        <item>http:\/\/www.3ue.xyz\/img_api\/iq6sXLc8REQ.jpg</item>
+    </string-array>
+
+</resources>

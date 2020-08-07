@@ -1,0 +1,7 @@
+import dependencies.*
+
+dependencies {
+  implementation fileTree(dir: 'libs', include: ['*.jar'])
+
+  implementation Deps.Kotlin.kotlin_stdlib_jdk7
+}
